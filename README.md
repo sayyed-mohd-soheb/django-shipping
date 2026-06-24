@@ -62,7 +62,7 @@ A Django-based system that recommends the most suitable shipping box for an orde
 
 ## Setup Instructions
 
-1. Clone the repo: git clone <your-repo-link>
+1. Clone the repo: git clone <https://github.com/sayyed-mohd-soheb/django-shipping>  ##ctrl + click
 
 cd box_selector
 
